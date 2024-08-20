@@ -1,0 +1,18 @@
+table, tr, td{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+.cidades{
+    background-color: blueviolet;
+}
+.cor{
+    background-color: rgb(25, 0, 255);
+}
+.largcoluna{
+    width: 150 px;
+}
+
+#legenda{
+    font-size: 30px;
+}
